@@ -1,0 +1,227 @@
+[
+    {
+        "studyId": "08a2165d-e264-4b16-bf50-feca262c99dd",
+        "seriesId": "08a2165d-e264-4b16-bf50-feca262c99dd",
+        "filename": "c4da537c-1651-ddae-4486-7db30d67b366-IM0089.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "a2767d04-7e11-4bc2-83df-9e4ccb70481b",
+        "seriesId": "a2767d04-7e11-4bc2-83df-9e4ccb70481b",
+        "filename": "d6a82a95-1b92-3e0a-443c-def36840ff07-IM0064.dcm",
+        "content": {
+            "type": "classification",
+            "label": "normal"
+        }
+    },
+    {
+        "studyId": "bc0feadf-dde9-46c0-bd5d-28436d0da397",
+        "seriesId": "bc0feadf-dde9-46c0-bd5d-28436d0da397",
+        "filename": "610e4ad5-09c4-7055-dff4-948fe6b4f832-IM0106.dcm",
+        "content": {
+            "type": "classification",
+            "label": "normal"
+        }
+    },
+    {
+        "studyId": "98503e82-dd1a-4ae9-954d-09bba13c6fbd",
+        "seriesId": "98503e82-dd1a-4ae9-954d-09bba13c6fbd",
+        "filename": "573e8d77-550a-e889-8ff4-1e8d8944897c-IM0106.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "60f91b36-ec10-46c3-a6a0-e179ee9a3b93",
+        "seriesId": "60f91b36-ec10-46c3-a6a0-e179ee9a3b93",
+        "filename": "2293202c-28df-a298-0d49-6d4bda22594f-IM0073.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "c46d834d-f7e2-4a34-a05a-599397e57b82",
+        "seriesId": "c46d834d-f7e2-4a34-a05a-599397e57b82",
+        "filename": "b3a1f131-5573-ae2d-8f9b-34c95653d4bd-IM0101.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "a8185d60-50e6-4616-b490-7a3d2425d56c",
+        "seriesId": "a8185d60-50e6-4616-b490-7a3d2425d56c",
+        "filename": "e7e96d54-006d-7b34-29ed-479c3ec3068c-IM0030.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "5e804c0a-9592-480a-af1e-9f8cf894c07f",
+        "seriesId": "5e804c0a-9592-480a-af1e-9f8cf894c07f",
+        "filename": "e0edeaf1-166d-d683-c609-dcba6fafc520-IM0062.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "e71a30be-7b42-474a-ab61-8767529b7f66",
+        "seriesId": "e71a30be-7b42-474a-ab61-8767529b7f66",
+        "filename": "01b0366f-11e3-74ee-60aa-0d3098fc4743-IM0022.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "f406386b-fd94-4003-9c25-121ac654b28c",
+        "seriesId": "f406386b-fd94-4003-9c25-121ac654b28c",
+        "filename": "1a1f141b-72c5-3633-bb66-ecb350c1eb44-IM0062.dcm",
+        "content": {
+            "type": "classification",
+            "label": "normal"
+        }
+    },
+    {
+        "studyId": "20594fce-939f-40d5-8022-afccf7fed886",
+        "seriesId": "20594fce-939f-40d5-8022-afccf7fed886",
+        "filename": "aac9912d-17bf-6b18-0b3c-354de7c834d3-IM0032.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "3cddc04e-a9a0-4b5d-b5b8-05caf84107e7",
+        "seriesId": "3cddc04e-a9a0-4b5d-b5b8-05caf84107e7",
+        "filename": "e81775f3-ca42-25f7-2051-e671246595df-IM0112.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "eea16c2f-fe24-454c-9c4c-a367497da006",
+        "seriesId": "eea16c2f-fe24-454c-9c4c-a367497da006",
+        "filename": "6e3e43c2-e941-2995-4ab3-8105056fb885-IM0064.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "03a0a6f7-84b5-4bf0-b0eb-d8605b8d7734",
+        "seriesId": "03a0a6f7-84b5-4bf0-b0eb-d8605b8d7734",
+        "filename": "7823908d-43ec-1f85-7a17-a6a492cadf50-IM0024.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "b744889f-21e7-47de-bb0f-9c14fb4bf9a1",
+        "seriesId": "b744889f-21e7-47de-bb0f-9c14fb4bf9a1",
+        "filename": "4e1ad87e-c4cf-bb8a-0968-02f6d67c8720-IM0002.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "00ce2a32-e0fb-43cc-8901-da4525d189ec",
+        "seriesId": "00ce2a32-e0fb-43cc-8901-da4525d189ec",
+        "filename": "7ba35975-cd2e-e163-858c-2e6e57ed22d0-IM0062.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "67f8f533-c181-4b02-a99a-06118dc5b009",
+        "seriesId": "67f8f533-c181-4b02-a99a-06118dc5b009",
+        "filename": "a3858cde-9be1-092e-d23e-e3c934f4f040-IM0043.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "d8573bf4-0bed-430a-916f-ab6779233b4d",
+        "seriesId": "d8573bf4-0bed-430a-916f-ab6779233b4d",
+        "filename": "f5e77d4d-cf30-cf2d-9097-a70286ee6241-IM0043.dcm",
+        "content": {
+            "type": "classification",
+            "label": "normal"
+        }
+    },
+    {
+        "studyId": "3acc155f-ef62-4eb0-bbb9-10d82c3c27b1",
+        "seriesId": "3acc155f-ef62-4eb0-bbb9-10d82c3c27b1",
+        "filename": "e497cd2f-65f2-ef76-0336-5a0850b51605-IM0077.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "619dd905-b276-4444-a43a-76764064c0cc",
+        "seriesId": "619dd905-b276-4444-a43a-76764064c0cc",
+        "filename": "6f33f708-8343-b946-a56a-62c3c4ef7978-IM0019.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "3877b390-a26e-46de-b610-e1ecf2e7932b",
+        "seriesId": "3877b390-a26e-46de-b610-e1ecf2e7932b",
+        "filename": "cbe54c28-a36b-1e87-89dc-68ceaf517df1-IM0077.dcm",
+        "content": {
+            "type": "classification",
+            "label": "normal"
+        }
+    },
+    {
+        "studyId": "45f32d45-7965-4835-8f73-b8c059eb37ea",
+        "seriesId": "45f32d45-7965-4835-8f73-b8c059eb37ea",
+        "filename": "d560f64b-e3dd-7ffa-98b4-85deaaaa1310-IM0084.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "b3c63f81-97ef-49c8-85cf-3ef2471d2964",
+        "seriesId": "b3c63f81-97ef-49c8-85cf-3ef2471d2964",
+        "filename": "6b641b3b-ab20-dd48-8546-a1a97c73708c-IM0047.dcm",
+        "content": {
+            "type": "classification",
+            "label": "covid"
+        }
+    },
+    {
+        "studyId": "cd794280-0c6f-4017-aa47-1e0c6f91f7f4",
+        "seriesId": "cd794280-0c6f-4017-aa47-1e0c6f91f7f4",
+        "filename": "d8eb6412-0826-c069-8293-b3205fe0a658-IM0102.dcm",
+        "content": {
+            "type": "classification",
+            "label": "cap"
+        }
+    },
+    {
+        "studyId": "0366ab1d-7fd5-469c-a855-9e7b030b4141",
+        "seriesId": "0366ab1d-7fd5-469c-a855-9e7b030b4141",
+        "filename": "b9cfda65-2e74-7c1f-a53c-4cc6c1117e2f-IM0089.dcm",
+        "content": {
+            "type": "classification",
+            "label": "normal"
+        }
+    }
+]
